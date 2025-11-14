@@ -13,4 +13,4 @@ This repository was created for a final project. It includes a simple shell scri
 
 To run the script, open your terminal and execute:
 ```bash
-bash calculate-area.sh
+bash simple-interest.sh
