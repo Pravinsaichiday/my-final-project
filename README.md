@@ -1,4 +1,4 @@
-# Final Project: Area Calculator
+# Final Project: Simple Interest Calculator
 
 This repository was created for a final project. It includes a simple shell script to calculate the area of a circle and all standard community health files.
 
