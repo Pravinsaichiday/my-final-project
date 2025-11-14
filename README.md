@@ -4,7 +4,7 @@ This repository was created for a final project. It includes a simple shell scri
 
 ### Repository Contents
 
-* `calculate-area.sh`: A shell script to calculate a circle's area.
+`simple-interest.sh`: A shell script to calculate simple interest.
 * `LICENSE`: The Apache 2.0 License.
 * `CODE_OF_CONDUCT.md`: Contributor Covenant Code of Conduct.
 * `CONTRIBUTING.md`: Contribution guidelines.
